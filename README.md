@@ -55,6 +55,8 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 ### Hands on Datasets
 
 ### Hands on Transformers
+
+### Hands on Chatbots
 <!--
 #### Hands on Datasets
 
