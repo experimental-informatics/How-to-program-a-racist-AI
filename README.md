@@ -32,8 +32,6 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 ## Course
 
 ### Hands on Python
-
-- just a short basic introduction
 <!--
 [Python: Variables](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_variables.ipynb)
 
