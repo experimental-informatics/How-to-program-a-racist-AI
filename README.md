@@ -1,6 +1,6 @@
 Notebooks from the Seminar:
 
-# How to program a racist AI < SoSe22 
+# [How to program a racist AI](https://ground-zero.khm.de/portfolio/seminar-how-to-program-a-racist-ai/) < SoSe22 
 
 
 
