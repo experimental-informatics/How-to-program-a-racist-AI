@@ -11,8 +11,6 @@ Notebooks from the Seminar:
 
 Georg Trogemann, Christian Heck, Ting Chun Liu
 
-Compact Seminar
-
 Compact seminar 30.05. – 03.06.2022 
 
 Filzengraben 8 – 10, 0.2 [ ] ground zero, Academy of Media Arts Cologne
