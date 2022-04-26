@@ -21,8 +21,6 @@ Filzengraben 8 – 10, 0.2 [ ] ground zero, Academy of Media Arts Cologne
 
 Academy of Media Arts Cologne
 
-Email: g.trogemann@khm.de, c.heck@khm.de, t.liu@khm.de
-
 ### Description
 
 Five years ago, the Google Research Team together with some Google Brain authors published the Transformer Architectures approach under the headline „Attention Is All You Need“. And since then, these Large Language Models (LLM) have also attracted attention. For the past 2 years, they have been at the center of social debates about discriminatory tendencies in AI language models. Even if racism is not explicitly or intentionally inscribed in these machine learning methods, they generate expressions in use that are difficult to predict, ranging from subtle everyday discrimination to agitation on the web, and thus also contribute to acts of racist violence on the streets.
