@@ -46,7 +46,7 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 [Python: Class / OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_class.ipynb)
 -->
 
-### Hands on Tokenizers
+### Hands on Tokenizers & Word embeddings
 
 ### Hands on Datasets
 
