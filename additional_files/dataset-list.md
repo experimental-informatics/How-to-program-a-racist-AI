@@ -1,35 +1,72 @@
----
 # DATASETS
 
 We can say, that the efforts in AI-Algorithms , perhaps, the most major AI breakthroughs in the past 25 years were growing in propotion to the availability of high-quality training datasets.
 
-![](https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng)
+<img src="https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng" style="zoom:50%;" />
 
 [source](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html)
 
 In addition to "Open Data", the publication of novel datasets plays a major role in promoting ML-based applications into the market. In this regard, access to novel datasets in particular is essential for securing the competitive edge of ML-based systems. After all, if newly acquired data sets are published, new applications will emerge within a short period of time (on average within 3 years).
 
+---
 
 Today's large AI models are increasingly created by individual companies, such as Google, Microsoft, OpenAI, Facebook, Salesforce, etc., at a scale that makes them unusable for further (free) research purposes, primarily due to lack of resources.
+
+## OpenAI's GPT-!
 
 The size of state-of-the-art language models is growing by a factor of 10 every year, and the training dataset for GPT-3 consists of nearly 500 billion words from the Internet, largely through web scraping. 
 
 The most of the scrapes coming from Common Crawl and WebText Corpus. In there you'll find material from the following platforms:
 
-![](./data/crawls-gpt.png)
+<img src="./data/crawls-gpt.png" style="zoom:50%;" />
 
-![moedels-and-datasets](./data/moedels-and-datasets.png)
+<img src="./data/moedels-and-datasets.png" alt="moedels-and-datasets" style="zoom:50%;" />
 
 
 
 ***Well... the slide above we've showed last year in our programming-textgenerators-seminar.***
 
 ***Today it looks like this:***
-![](./data/datasets-today.png)
+<img src="./data/datasets-today.png" style="zoom:50%;" />
 
 [source](https://lifearchitect.ai/models/)
 
-## just a tiny list of datasets for NLG Tasks
+---
+
+## EleutherAI's GPT-!
+
+Trained with »[The PILE](https://pile.eleuther.ai/)«:
+
+The Pile is a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.
+
+see paper on arxiv: [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027)
+
+## <img src="/home/whoami/temp/gittest/data/pile0.png" alt="pile0" style="zoom:50%;" />
+
+<img src="/home/whoami/temp/gittest/data/pile1.png" alt="pile1" style="zoom:50%;" />
+
+
+
+---
+
+## List of Propaganda + Hate Speech Datasets
+
+#### Ukraine War:
+
+* Weibo Dataset: https://blender.cs.illinois.edu/paper/weibo2022.pdf
+  * available on github: https://github.com/yrf1/RussiaUkraine_weibo_dataset
+* Twitter Dataset: https://arxiv.org/pdf/2203.02955.pdf
+  * available on github: https://github.com/ehsanulhaq1/russo_ukraine_dataset
+
+#### Hate Speech:
+
+* Hate Speech Dataset Catalogue: https://hatespeechdata.com/
+
+#### Propaganda:
+
+* adding some in...
+
+## Tiny list of some more datasets for NLG Tasks
 
 ### Multilingual Datasets
 
