@@ -64,7 +64,14 @@ see paper on arxiv: [The Pile: An 800GB Dataset of Diverse Text for Language Mod
 
 #### Propaganda:
 
-* adding some in...
+* The Propaganda Techniques Corpus (PTC)
+
+  *"Propagandistic news articles use specific techniques to convey  their message, such as whataboutism, red Herring, and name calling,  among many others. The Propaganda Techniques Corpus (PTC) allows to  study automatic algorithms to detect them. We provide a permanent  leaderboard to allow researchers both to advertise their progress and to be up-to-speed with the state of the art on the tasks offered (see  below for a definition)."* < see: https://propaganda.qcri.org/ptc/
+
+* Web Interface Demos: https://www.tanbih.org/prta
+
+  1. Propaganda technique analysis on a topic: https://www.tanbih.org/propaganda/
+  2. Highlighting of the propaganda techniques in a text: https://www.tanbih.org/propagandasubmit
 
 ## Tiny list of some more datasets for NLG Tasks
 
