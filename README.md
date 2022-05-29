@@ -25,6 +25,8 @@ Five years ago, the Google Research Team together with some Google Brain authors
 
 Introduction to Programming Artificially Intelligent Racists is based on the Python programming language. „How to program a racist AI“ is a continuation of the seminar „Human Machine Readable – Introduction to Programming“ from the winter semester. However, participation in the WS is not a prerequisite. The seminar is open to anyone with previous programming experience (in any language). We will take a closer look at three areas of programming: 1. the Transformer model architecture, 2. the training data, and 3. the pre-processing of the respective data sets. The goal of the seminar is that at the end each student understands the basics of various biases in AI language models and is able to code their own communication guerrilla hate speech bot.
 
+<!--
+
 ## Course
 
 ### Hands on Python
@@ -45,6 +47,8 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 
 [Python: Class / OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/python_class.ipynb)
 -->
+
+<!--
 
 ### Hands on Datasets
 
@@ -123,6 +127,8 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 -->
 ---
 
+<!--
+
 ### General Info 
 #### Hands on Jupyter Notebooks
 
@@ -140,6 +146,3 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 | Jupyter Notebook            | https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/ |
 | Conda                       | https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf |
 -->
----
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/How-to-program-a-racist-AI/HEAD)
