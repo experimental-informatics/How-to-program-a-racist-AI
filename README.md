@@ -125,6 +125,8 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 -->
 ---
 
+<!--
+
 ### General Info 
 #### Hands on Jupyter Notebooks
 
@@ -145,3 +147,5 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 ---
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/How-to-program-a-racist-AI/HEAD)
+
+-->
