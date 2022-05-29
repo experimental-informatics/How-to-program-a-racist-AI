@@ -146,8 +146,3 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 | Jupyter Notebook            | https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/ |
 | Conda                       | https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf |
 -->
----
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/How-to-program-a-racist-AI/HEAD)
-
--->
