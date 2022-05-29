@@ -25,6 +25,8 @@ Five years ago, the Google Research Team together with some Google Brain authors
 
 Introduction to Programming Artificially Intelligent Racists is based on the Python programming language. „How to program a racist AI“ is a continuation of the seminar „Human Machine Readable – Introduction to Programming“ from the winter semester. However, participation in the WS is not a prerequisite. The seminar is open to anyone with previous programming experience (in any language). We will take a closer look at three areas of programming: 1. the Transformer model architecture, 2. the training data, and 3. the pre-processing of the respective data sets. The goal of the seminar is that at the end each student understands the basics of various biases in AI language models and is able to code their own communication guerrilla hate speech bot.
 
+<!--
+
 ## Course
 
 ### Hands on Python
