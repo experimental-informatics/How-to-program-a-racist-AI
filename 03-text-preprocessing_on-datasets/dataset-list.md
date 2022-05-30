@@ -41,9 +41,9 @@ The Pile is a 825 GiB diverse, open source language modelling data set that cons
 
 see paper on arxiv: [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027)
 
-## <img src="/home/whoami/temp/gittest/data/pile0.png" alt="pile0" style="zoom:50%;" />
+<img src="./data/pile0.png" alt="pile0" style="zoom:50%;" />
 
-<img src="/home/whoami/temp/gittest/data/pile1.png" alt="pile1" style="zoom:50%;" />
+<img src="./data/pile1.png" alt="pile1" style="zoom:50%;" />
 
 
 
