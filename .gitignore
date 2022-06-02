@@ -1,3 +1,4 @@
 *.DS_Store
 *.ipynb_checkpoints
 
+02-flask/aitextgen/finetune-your-model/trained_model/pytorch_model.bin
