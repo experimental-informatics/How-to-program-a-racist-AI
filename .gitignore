@@ -2,3 +2,7 @@
 *.ipynb_checkpoints
 
 02-flask/aitextgen/finetune-your-model/trained_model/pytorch_model.bin
+04-aitextgen/finetune-your-model/trained_model/pytorch_model.bin
+04-aitextgen/finetune-your-model/trained_model/config.json
+04-aitextgen/working-with-pretrained-models/trained_model/config.json
+04-aitextgen/working-with-pretrained-models/trained_model/pytorch_model.bin
