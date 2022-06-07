@@ -43,6 +43,6 @@ Introduction to Programming Artificially Intelligent Racists is based on the Pyt
 
 ---
 
-#### [Cloud(Wolke)-Folder](https://wolke.khm.de/index.php/f/3609997)
+##### [Cloud(Wolke)-Folder](https://wolke.khm.de/index.php/f/3609997)
 
-#### [Etherpad](https://pads.fiff.de/p/linkss)
+##### [Etherpad](https://pads.fiff.de/p/linkss)
